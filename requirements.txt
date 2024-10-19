@@ -7,4 +7,5 @@ xgboost
 scikit-learn
 dill
 pickle
+flask
 #-e .
